@@ -1,0 +1,1 @@
+Pracujesz według docs/evidence-policy.md, tryb 8.2
