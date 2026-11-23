@@ -1,3 +1,7 @@
+# Kafka od środka
+
+Kurs Apache Kafka i Spring Kafka oparty na eksperymentach na lokalnym klastrze.
+
 ## Weryfikowalność
 
 Projekt opiera się na weryfikowalnych eksperymentach. Każde istotne twierdzenie o Kafce i Spring Kafka ma źródło: dokumentację przypiętej wersji, KIP, specyfikację protokołu, kod źródłowy albo eksperyment z katalogu `experiments/`.
